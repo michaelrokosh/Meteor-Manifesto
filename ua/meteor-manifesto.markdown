@@ -11,7 +11,7 @@ Template.ColorScheme.events({
 });
 
 Template.ColorScheme.helpers({
-  currentColor: Template.instance().currentColor.get()
+  currentColor: Session.get('currentColor')
 });
 ```
 ```js
