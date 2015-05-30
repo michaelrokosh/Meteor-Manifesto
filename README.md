@@ -1,2 +1,2 @@
 # Meteor-Manifesto
-Dos And Don'ts Meteor Collection
+The Dos And Don'ts of Meteor
