@@ -1,2 +1,5 @@
 #Alerts
-http://s-alert.meteor.com/
+https://github.com/juliancwirko/meteor-s-alert
+
+#Sharing
+https://atmospherejs.com/joshowens/shareit
